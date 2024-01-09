@@ -21,3 +21,10 @@ http://habito.localhost:8090/_/
 **Start the frontend server***
 
 TODO
+
+## TODO
+
+- [ ] Create frontend using https://mithril.js.org/
+- [ ] Setup Digital Ocean Server (systemd)
+- [ ] Setup SMTP server
+- [ ] Setup OAuth2 login with Google
